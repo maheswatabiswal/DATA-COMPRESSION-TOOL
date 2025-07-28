@@ -55,3 +55,4 @@ Overall, this project deepened my algorithmic thinking and taught me how to crea
 
 *OUTPUT*
 
+<img width="1919" height="1017" alt="Image" src="https://github.com/user-attachments/assets/02c5bc22-fad2-4fb3-a715-430b1dcf7d87" />
